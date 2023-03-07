@@ -1,0 +1,12 @@
+c=0
+while c<10:
+    c+=1
+    if c==3:
+        print("c value is 3 now")
+        continue
+    print(c,"I love my father and mother Dommala Krishna and Dommala Shakunthala")
+
+c=1
+while c<=6:
+    print(c,"I love my parents and my sisters")
+    c+=1
